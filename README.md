@@ -1,5 +1,9 @@
 # Exoplanets-Analysis
 
+Website from which data is scrapped: https://exoplanets.nasa.gov/exoplanet-catalog/
+
+Calculating gravity, planet speed, finding planet type and goldilock planets to figure out the sustainable planets : https://colab.research.google.com/drive/1Ten-Fxb_5cHVI1TNwz2mL4Iex2yRPEsi?usp=sharing
+
 THE API LINK : https://github.com/OphiliaFradarick/Exoplanets-App-API.git
 I recommend you to run the API code using NGROK
 
