@@ -1,4 +1,4 @@
-# Exoplanets-App
+# Exoplanets-Analysis
 
 THE API LINK : https://github.com/OphiliaFradarick/Exoplanets-App-API.git
 I recommend you to run the API code using NGROK
