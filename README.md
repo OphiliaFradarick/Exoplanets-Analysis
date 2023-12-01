@@ -1,6 +1,6 @@
 # Exoplanets-App
 
-THE API LINK : https://github.com/OphiliaFradarick/MovieRecommendationAppAPI.git
+THE API LINK : https://github.com/OphiliaFradarick/Exoplanets-App-API.git
 I recommend you to run the API code using NGROK
 
 Please enable CORS extension to see the output. Here is the expo snack link for the app : https://snack.expo.dev/@ophiliafradarick/exoplanet-app
